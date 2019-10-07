@@ -1,0 +1,28 @@
+.section_shoes{
+    margin: auto;
+    margin-bottom: 2em;
+    width: 95%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.men{
+    background-image: url('../Assets/nike-men1.jpg');
+    background-size: cover;
+    box-shadow: 2px 2px 20px 2px rgba(194, 194, 194, 0.671);
+}
+.women{
+    background-image: url('../Assets/nike-women.jpg');
+    background-size: cover;
+    box-shadow: 2px 2px 20px 2px rgba(194, 194, 194, 0.671);
+}
+h2{
+    margin-top: 1em;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
